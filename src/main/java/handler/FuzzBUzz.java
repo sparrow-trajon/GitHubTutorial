@@ -14,7 +14,7 @@ public class FuzzBUzz {
 		//checkIfEvenOrOdd(num);
 		//checkIfNumberIsPositiveOrNegative(num);
 		//getName(num);
-		
+			
 		printNumber(num);
 	}
 	
